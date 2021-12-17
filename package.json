@@ -22,7 +22,7 @@
     "buffer-alloc": "^1.1.0",
     "debug": "^2.2.0",
     "nan": "^2.10.0",
-    "ogg": "^1.2.5",
+    "ogg": "git+https://github.com/radulov/node-ogg.git#cfe8ac9027bcbd00aeb6204f38a04317a0294123",
     "readable-stream": "^2.3.6"
   },
   "devDependencies": {
